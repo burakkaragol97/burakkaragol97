@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Karagöl / Front End Developer</h1>
-<h3 align="center">A passionate Front End Developer who wants to learn every thin in Software</h3>
+<h3 align="center">A passionate Front End Developer who wants to learn every thing in Software</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
